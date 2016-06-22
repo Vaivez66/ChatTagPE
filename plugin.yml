@@ -1,0 +1,11 @@
+name: ChatTagPE
+main: Vaivez66\ChatTagPE\ChatTag
+version: 1.0.0
+api: [1.12.0, 2.0.0]
+load: POSTWORLD
+authors: [Vaivez66]
+description: "Chat in your nametag"
+permissions:
+  chat.tag.bypass:
+    description: "Permission to bypass from changing nametags"
+    default: false
