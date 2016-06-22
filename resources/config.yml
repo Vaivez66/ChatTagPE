@@ -1,0 +1,5 @@
+---
+# The nametag that will change when players chat
+chat.nametag: "{nametag}: {YELLOW}{message}"
+# The delay time before the nametag back to normal (in seconds)
+delay.time: 5
